@@ -22,3 +22,13 @@ You will need R installed. Then, install the required packages:
 install.packages(c("shiny", "ggplot2", "dplyr", "patchwork", "bslib"))
 if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
 BiocManager::install("Seurat")
+
+
+# Running Locally
+Clone this repository:
+
+git clone [https://github.com/yourusername/scrna-explorer.git](https://github.com/yourusername/scrna-explorer.git)
+
+Open app.R in RStudio.
+
+Click "Run App" or type shiny::runApp() in the console.
