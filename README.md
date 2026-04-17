@@ -2,7 +2,6 @@
 
 A high-performance R Shiny application for the interactive exploration of single-cell RNA sequencing data. This tool allows researchers to visualize Seurat objects without writing code.
 
-[Live Demo on shinyapps.io](YOUR_LINK_HERE)
 
 ## ⭐ Key Features
 - **Dynamic Upload**: Supports `.rds` files containing Seurat objects.
